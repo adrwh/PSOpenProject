@@ -30,7 +30,7 @@ function New-PSOPTask {
         #$Uri = "http://localhost/anything"
 
         # The project specific Work_Packages endpoint.
-        #$Uri = "$($config.opProdHost)/api/v3/projects/$($config.projectId)/work_packages/"
+        $Uri = "$($config.opProdHost)/api/v3/projects/$($config.projectId)/work_packages/"
 
         try {
             Invoke-RestMethod -Uri $Uri -Headers $headers -ContentType 'application/json' -Method Post -Body $body
