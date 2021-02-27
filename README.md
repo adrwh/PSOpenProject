@@ -33,7 +33,7 @@ Add a single task.
 
 Add multiple tasks seperated by comma
 
-`New-OPTask -TaskName "do this","do that"`
+`New-OPTask -TaskName "do this","do that","do the other"`
 
 ### Defaults
 
