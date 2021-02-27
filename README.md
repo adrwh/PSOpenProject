@@ -18,7 +18,7 @@ A PowerShell function to create OpenProject Tasks in Bulk.
     ApiKey = 'xxxxx'
     ProjectID  = 'MyEpicProject'
     Department = "Security"
-    ProductionDomain = "https://openproject.hillsong.io"
+    ProductionDomain = "https://customdomain.com"
     DevelopmentDomain = "http://0.0.0.0/Anything"
 }
 ```
