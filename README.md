@@ -5,7 +5,7 @@ A PowerShell function to create OpenProject Tasks in Bulk.
 ### Use Cases
 * Create single OpenProject tasks with a simple command.
 * Provide an arracy of task names to create multiple tasks with a single command.
-* Loop through a list or CSV of tasks to create tasks in bulk.
+* Loop through a list or CSV of tasks to create tasks in bulk. (see [CSV_Example.ps1](CSV_Example.ps1))
 
 
 ## Install
