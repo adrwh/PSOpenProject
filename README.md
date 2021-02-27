@@ -38,6 +38,7 @@ Add multiple tasks seperated by comma
 ### Defaults
 
 New-OPTask will create tasks using your default Department, Priority set to "Normal" and Status set to "Backlog".  You can change this in the config file or on the command line when you execute.
+> Please note:  These labels need to match your specific OpenProject environment, adjust accordingly.
 
 Add a task with a RoadBlocked status and Immediate priority
 
