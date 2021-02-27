@@ -9,7 +9,7 @@ A PowerShell function to create OpenProject Tasks in Bulk.
 
 
 ## Install
-1. Like anything in Github, either clone it or download the Zip and unpack it.
+1. Like anything in Github, either clone it or download the Zip and unblock it (if you're on windows) and then unpack it.
 2. Get your OpenProject API key
 2. Create a `config.psd1` file in the same directory as the script, based off the example below.
 
